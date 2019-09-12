@@ -1,2 +1,2 @@
 # testApiPlateform
-test api plateform symfony 4 budle
+test api plateform symfony 4 bundle
